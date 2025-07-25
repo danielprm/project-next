@@ -12,6 +12,7 @@ export default function Home() {
         {/* aula 2 - dados dinamicos */}
         <h1>Acessar posts</h1>
         <Link href="/posts">Posts</Link>
+        {/* aula 3 - parametros na url */}
       </main>
     </div>
   );
