@@ -3,7 +3,7 @@ const Post = ({ params }) => {
 
   return (
     <div>
-      <h1>Post: {id}</h1>
+      <h1>titulo: {id}</h1>
       <p>Conteúdo do post com o ID: {id}</p>
     </div>
   );

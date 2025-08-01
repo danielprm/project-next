@@ -13,6 +13,7 @@ export default function Home() {
         <h1>Acessar posts</h1>
         <Link href="/posts">Posts</Link>
         {/* aula 3 - parametros na url */}
+        <Link href="/exemplo?parametro=abc">exemploPage</Link>
       </main>
     </div>
   );
